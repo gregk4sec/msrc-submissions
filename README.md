@@ -36,4 +36,8 @@
 
 ### PoC
 
+### Questions
+
+[Submissions on Azure Container App Service and Azure App Service Vulnerabilities](https://github.com/gregk4sec/msrc-submissions/security/advisories/GHSA-whrm-r2h9-rh9m)
+
 ---
